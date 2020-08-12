@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PhD Tip 1 - The System
+title: '<b>PhD Tip #1:</b> The System'
 tags: [PhD]
 style: fill
-color: warning
+color: danger 
 description: Everything you do needs a system. Without a system, things break down.
 ---
 Source: [David J. Glass](https://www.amazon.com/Experimental-Design-Biologists-Second-David/dp/1621820416)
@@ -20,4 +20,4 @@ In your academic PhD journey, the same is true. It is imperative to have a syste
 
 Having a system increases efficiency.{% include elements/highlight.html text="A system is predictable and controllable." %}With a system, you'll be more aware of how long an experiment might take, what to do with a scientific paper after you read it so you don't forget it, or even when to take a break from work to prevent burnout. 
 
-My advice: Have a system for every task.
+**My advice: Have a system for every task.**

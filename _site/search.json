@@ -1,15 +1,31 @@
 [
   
     {
-      "title"    : "",
+      "title"    : "&lt;b&gt;Research:&lt;/b&gt; Programming &lt;br&gt; self-organizing multicellular structures with synthetic cell-cell signaling, Toda et al. 2018",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/blog/2019-09-06-Sky-Blue",
-      "date"     : "2020-08-12 10:08:11 -0700"
+      "tags"     : "Research, Favorites, External Post",
+      "url"      : "http://limlab.ucsf.edu/papers/pdfs/toda_2018.pdf",
+      "date"     : "2020-07-25 00:00:00 -0700"
     } ,
   
     {
-      "title"    : "PhD Tip 1 - The System",
+      "title"    : "&lt;b&gt;Music:&lt;/b&gt; Worlds &lt;br&gt; (Porter Robinson album)",
+      "category" : "",
+      "tags"     : "Music, Favorites, External Post",
+      "url"      : "https://en.wikipedia.org/wiki/Worlds_(Porter_Robinson_album)",
+      "date"     : "2020-07-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "&lt;b&gt;Poetry:&lt;/b&gt; &quot;Sky Blue&quot; by Matt Farrell",
+      "category" : "",
+      "tags"     : "Poetry, Favorites, External Post",
+      "url"      : "https://www.rattle.com/sky-blue-by-matt-farrell/",
+      "date"     : "2020-07-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "&lt;b&gt;PhD Tip #1:&lt;/b&gt; The System",
       "category" : "",
       "tags"     : "PhD",
       "url"      : "/blog/the-system",
@@ -17,9 +33,9 @@
     } ,
   
     {
-      "title"    : "Sprinkling",
+      "title"    : "&lt;b&gt;Publication:&lt;/b&gt; &quot;Sprinkling&quot;",
       "category" : "",
-      "tags"     : "External Post, Poetry",
+      "tags"     : "Poetry, External Post",
       "url"      : "http://www.westwind.ucla.edu/wp-content/uploads/2020/02/WestwindFall2015Journal.pdf",
       "date"     : "2015-10-01 00:00:00 -0700"
     } 
