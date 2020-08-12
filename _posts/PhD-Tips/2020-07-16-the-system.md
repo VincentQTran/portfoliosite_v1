@@ -14,7 +14,7 @@ When you address each of these responsibilities, there's always a system, and by
 
 There’s a system to everything you do. 
 
-And when there isn't a system, things break down quickly. If you don't set a time to cook your meals, then you likely end up forgetting to eat or you have to rush somewhere to buy takeout.  If you don't keep track of your bills, then you might forget to pay them and will accrue late payment fees and possibly spend more money than you think you actually still have in the bank. If you Having a system is incredibly important when addressing your responsibilities in life. 
+And when there isn't a system, things break down quickly. If you don't set a time to cook your meals, then you likely end up forgetting to eat or you have to rush somewhere to buy takeout.  If you don't keep track of your bills, then you will forget to pay them, accrue late payment fees, and possibly spend more money than you think you still have in the bank. Having a system is incredibly important when addressing your responsibilities in life. 
 
 In your academic PhD journey, the same is true. It is imperative to have a system for everything. A system for reading and tracking scientific papers. A system for setting up and organizing experiments. A system for analyzing data. 
 
