@@ -1,0 +1,11 @@
+- name: Python
+  percentage: 30
+  color: dark
+
+- name: Mach. Learn.
+  percentage: 40
+  color: success
+
+- name: Poetry
+  percentage: 65
+  color: info

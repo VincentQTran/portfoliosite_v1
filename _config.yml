@@ -1,0 +1,92 @@
+### Site Settings ###
+title               : Vincent Tran
+description         : >-
+                      Hi! My name is Vincent (Vince). This is my
+                      blog about my journey :running: as a graduate
+                      student at UC Berkeley :school:, a poet :pencil:,
+                      and an aspiring industry scientist :factory:.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/projects.html
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+
+### Author Info ###
+author:
+  name              : Vincent Tran
+  image             : https://i.imgur.com/9mYRmax.jpg
+# email             : tranvinq@gmail.com
+  facebook          : tranvinq
+  github            : VincentQTran
+  linkedin          : VincentQTran
+  twitter           : tranvinq
+# behance           : your_username
+# dribbble          : your_username
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+#  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+
+### Disqus ###
+disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

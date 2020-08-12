@@ -1,0 +1,11 @@
+- name: Microscopy
+  percentage: 60
+  color: warning
+
+- name: Molecular & Cellular Bio
+  percentage: 70
+  color: primary
+
+- name: Virology
+  percentage: 40
+  color: danger
