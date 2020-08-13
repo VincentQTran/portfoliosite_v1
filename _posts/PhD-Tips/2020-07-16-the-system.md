@@ -8,11 +8,11 @@ description: Everything you do needs a system. Without a system, things break do
 ---
 resources: [Experimental Design for Biologists](https://www.amazon.com/Experimental-Design-Biologists-Second-David/dp/1621820416)
 
-###Preface###
+### Preface ###
 
-Before I begin, welcome to my PhD survival guide! In this series of my PhD surivival guide, I will be sharing tips to help you become a more productive and efficient researcher during your PhD journey. There have been a lot of lessons I've learned from senior graduate students, books, professors, and my own mistakes that I wished I had learned earlier. This blog is to share those lessons with those in PhD programs right now, so that they don't fall into the same traps that I did. Let's start!
+Before I begin, welcome to my PhD survival guide! I will be starting my survival guide off with the main reason of doing a PhD, research! In this series, I will be sharing tips to help you become a more productive and efficient researcher during your PhD journey. There have been a lot of lessons I've learned from senior graduate students, books, professors, and my own mistakes that I wished I had learned earlier. This blog is to share those lessons with those in PhD programs right now, so that they don't fall into the same traps that I did. Let's start!
 
-###1. The System###
+### 1. The System ###
 
 In your daily life, it is without a doubt that you hold many responsibilities. Those responsibilities can range from a task as simple as cooking yourself dinner to something as complicated as analyzing your data to share with your peers. 
 

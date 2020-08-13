@@ -1,9 +1,17 @@
 [
   
     {
+      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 2. The Framework",
+      "category" : "",
+      "tags"     : "PhD",
+      "url"      : "/blog/the-framework",
+      "date"     : "2020-08-13 00:00:00 -0700"
+    } ,
+  
+    {
       "title"    : "&lt;b&gt;Science&lt;/b&gt; &lt;br&gt; Programming self-organizing multicellular structures with synthetic cell-cell signaling, Toda et al. 2018",
       "category" : "",
-      "tags"     : "Research, Favorites, External Post",
+      "tags"     : "Science, Favorites, External Post",
       "url"      : "http://limlab.ucsf.edu/papers/pdfs/toda_2018.pdf",
       "date"     : "2020-07-25 00:00:00 -0700"
     } ,
@@ -25,7 +33,7 @@
     } ,
   
     {
-      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research Tip #1 - The System",
+      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 1. The System",
       "category" : "",
       "tags"     : "PhD",
       "url"      : "/blog/the-system",
