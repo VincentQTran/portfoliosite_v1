@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Vincent Tran
+title               : Vincent Q. Tran
 description         : >-
                       Hi! My name is Vincent (Vince). This is my
                       blog about my journey :running: as a graduate
@@ -27,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Vincent Tran
+  name              : Vincent (Vince)
   image             : https://i.imgur.com/9mYRmax.jpg
 # email             : tranvinq@gmail.com
   facebook          : tranvinq
