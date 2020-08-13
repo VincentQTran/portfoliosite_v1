@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '<b>Publication:</b> "Sprinkling"'
+title: '<b>Poetry.</b> <br> "Sprinkling"'
 tags: [Poetry, External Post]
 style: fill
 color: success
