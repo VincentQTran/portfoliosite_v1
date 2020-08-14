@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<b>Vince's PhD Survival Guide: </b> <br> Research - 1. The System"
+title: "<b>Vince's PhD Survival Guide: </b> <br> Intro - 1. The System"
 tags: [PhD]
 style: fill
 color: danger
@@ -10,7 +10,7 @@ resources: [Experimental Design for Biologists](https://www.amazon.com/Experimen
 
 ### Preface ###
 
-Before I begin, welcome to my PhD survival guide! I will be starting my survival guide off with the main reason of doing a PhD, research! In this series, I will be sharing tips to help you become a more productive and efficient researcher during your PhD journey. There have been a lot of lessons I've learned from senior graduate students, books, professors, and my own mistakes that I wished I had learned earlier. This blog is to share those lessons with those in PhD programs right now, so that they don't fall into the same traps that I did. Let's start!
+Welcome to my PhD survival guide! I will be starting my survival guide off with a few core concepts to keep in mind throughout your PhD journey! Throughout this guide, I will be sharing tips to help you become a more productive and efficient researcher during your PhD journey. There have been a lot of lessons I've learned from senior graduate students, books, professors, and my own mistakes that I wished I had learned earlier. This blog is to share those lessons with those in PhD programs right now, so that they don't fall into the same traps that I did. Let's start!
 
 ### 1. The System ###
 
