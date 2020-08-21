@@ -1,7 +1,15 @@
 [
   
     {
-      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 2. The Framework",
+      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 1. Keeping Track of Papers",
+      "category" : "",
+      "tags"     : "PhD",
+      "url"      : "/blog/keeping-track-of-papers",
+      "date"     : "2020-08-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Intro - 2. The Framework",
       "category" : "",
       "tags"     : "PhD",
       "url"      : "/blog/the-framework",
@@ -17,14 +25,6 @@
     } ,
   
     {
-      "title"    : "&lt;b&gt;Music&lt;/b&gt; &lt;br&gt; Worlds (Porter Robinson album)",
-      "category" : "",
-      "tags"     : "Music, Favorites, External Post",
-      "url"      : "https://en.wikipedia.org/wiki/Worlds_(Porter_Robinson_album)",
-      "date"     : "2020-07-22 00:00:00 -0700"
-    } ,
-  
-    {
       "title"    : "&lt;b&gt;Poetry.&lt;/b&gt; &lt;br&gt; &quot;Sky Blue&quot; by Matt Farrell",
       "category" : "",
       "tags"     : "Poetry, Favorites, External Post",
@@ -33,7 +33,7 @@
     } ,
   
     {
-      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 1. The System",
+      "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Intro - 1. The System",
       "category" : "",
       "tags"     : "PhD",
       "url"      : "/blog/the-system",
