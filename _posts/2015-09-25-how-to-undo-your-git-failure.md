@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to undo your git failure?
 tags: [External Post, Git]
 style: fill
