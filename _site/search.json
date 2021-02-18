@@ -1,5 +1,5 @@
 [
-  
+
     {
       "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Research - 1. Keeping Track of Papers",
       "category" : "",
@@ -7,7 +7,7 @@
       "url"      : "/blog/keeping-track-of-papers",
       "date"     : "2020-08-20 00:00:00 -0700"
     } ,
-  
+
     {
       "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Intro - 2. The Framework",
       "category" : "",
@@ -15,7 +15,7 @@
       "url"      : "/blog/the-framework",
       "date"     : "2020-08-13 00:00:00 -0700"
     } ,
-  
+
     {
       "title"    : "&lt;b&gt;Science&lt;/b&gt; &lt;br&gt; Programming self-organizing multicellular structures with synthetic cell-cell signaling, Toda et al. 2018",
       "category" : "",
@@ -23,7 +23,7 @@
       "url"      : "http://limlab.ucsf.edu/papers/pdfs/toda_2018.pdf",
       "date"     : "2020-07-25 00:00:00 -0700"
     } ,
-  
+
     {
       "title"    : "&lt;b&gt;Poetry.&lt;/b&gt; &lt;br&gt; &quot;Sky Blue&quot; by Matt Farrell",
       "category" : "",
@@ -31,7 +31,7 @@
       "url"      : "https://www.rattle.com/sky-blue-by-matt-farrell/",
       "date"     : "2020-07-20 00:00:00 -0700"
     } ,
-  
+
     {
       "title"    : "&lt;b&gt;Vince&#39;s PhD Survival Guide: &lt;/b&gt; &lt;br&gt; Intro - 1. The System",
       "category" : "",
@@ -39,13 +39,13 @@
       "url"      : "/blog/the-system",
       "date"     : "2020-07-16 00:00:00 -0700"
     } ,
-  
+
     {
       "title"    : "&lt;b&gt;Poetry.&lt;/b&gt; &lt;br&gt; &quot;Sprinkling&quot;",
       "category" : "",
       "tags"     : "Poetry, External Post",
       "url"      : "http://www.westwind.ucla.edu/wp-content/uploads/2020/02/WestwindFall2015Journal.pdf",
       "date"     : "2015-10-01 00:00:00 -0700"
-    } 
-  
+    }
+
 ]
